@@ -99,28 +99,9 @@ plt.tight_layout()
 plt.show()
 ```
 
-
     
 ![png](DIM_REDUCT_ALGORITHMS_files/DIM_REDUCT_ALGORITHMS_0_0.png)
-    
-
-
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-    /Users/mohamadians/opt/anaconda3/lib/python3.8/site-packages/sklearn/cluster/_kmeans.py:870: FutureWarning: The default value of `n_init` will change from 10 to 'auto' in 1.4. Set the value of `n_init` explicitly to suppress the warning
-      warnings.warn(
-
-
-
-    
+        
 ![png](DIM_REDUCT_ALGORITHMS_files/DIM_REDUCT_ALGORITHMS_0_2.png)
     
 
