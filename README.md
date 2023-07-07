@@ -2,7 +2,7 @@
 [![PyPI license](https://img.shields.io/pypi/l/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 
 # 6 algorithms of dimensionality reduction in Machine learning
-
+I have created a python code called DIM_REDUCT_ALGORITHMS.ipynb for understanding how we are able to implement different dimensionality reduction algorithms in machine learning. Dimensionality reduction is a process of reducing the number of features in a dataset while preserving the main information. It is commonly used in machine learning and data analysis. Here are some popular dimensionality reduction algorithms:
 
 ```python
 import numpy as np
