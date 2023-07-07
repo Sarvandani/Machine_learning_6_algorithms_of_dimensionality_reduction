@@ -116,3 +116,7 @@ plt.show()
 ```python
 
 ```
+The x and y axes on the plots represent the reduced-dimensional representations of the image data obtained from the dimensionality reduction algorithms. Each point on the scatter plot corresponds to a data point in the reduced-dimensional space. For example, in the case of PCA, the x-axis represents the first principal component, and the y-axis represents the second principal component. The scatter plot shows how the data points are distributed in this reduced-dimensional space. The color of each point represents the cluster assigned by the K-means clustering algorithm. Similarly, for other dimensionality reduction algorithms , the x and y axes represent the two dimensions obtained from those algorithms.
+The purpose of these plots is to visualize how the data points are clustered or distributed in the reduced-dimensional space and how well the K-means clustering algorithm is able to separate the data points into different clusters.
+
+The original photo of this work can be found in the following [link](https://unsplash.com/fr/photos/5Fxuo7x-eyg).
